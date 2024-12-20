@@ -113,19 +113,31 @@ Add a new column named month_name that contains the extracted months of the year
 
 # Conclusions
 Most customers are Members, driving higher revenue. Gender distribution is balanced, ensuring a diverse audience.
+
 Evening and afternoon sales peak, especially on Mondays and Fridays, ideal times for targeted promotions.
+
 The Food and Beverages category has the best ratings, highlighting its popularity.
+
 Naypyitaw records the highest average VAT, and Members contribute more VAT than Normal customers, indicating their higher spending.
+
 Afternoon sales receive the highest customer ratings, with Fridays being the best day for satisfaction, particularly in Branch A.
+
 Branches and cities show varying performance; focusing on top performers can maximize growth while addressing underperformers can improve overall profitability.
+
 Popular product lines like Food and Beverages and high-margin transactions highlight opportunities for promotions and inventory optimization.
+
 Sales peak during certain months and weekends, providing opportunities for seasonal campaigns and weekend promotions.
+
 Members consistently make frequent purchases, emphasizing the importance of loyalty programs.
 
 # Recommendations
 Implement exclusive promotions and rewards to retain and engage Members, as they contribute significantly to sales.
+
 Schedule marketing efforts during peak times, particularly on Mondays and Fridays in the afternoon and evening.
+
 Highlight Food and Beverages in campaigns and gather feedback to improve less popular products.
+
 Customize promotions, staffing, and services based on branch performance to enhance customer satisfaction.
+
 Run targeted campaigns during high-sales months and weekends to maximize revenue opportunities.
 
