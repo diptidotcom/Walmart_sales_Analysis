@@ -1,8 +1,9 @@
-Analyze Walmart Sales Data
+# Analyze Walmart Sales Data
  To analyze and derive insights from Walmart's sales data to improve business decision-making 
 processes.
 Dataset:
 • The dataset consists of the following columns:
+
 • Invoice_ID: Unique identifier for each invoice.
 • Branch: Branch of the store where the sale took place.
 • City: City where the store branch is located.
