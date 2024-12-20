@@ -4,8 +4,11 @@ processes.
 
 Dataset:
 • The dataset consists of the following columns:
+
 • Invoice_ID: Unique identifier for each invoice.
+
 • Branch: Branch of the store where the sale took place.
+
 • City: City where the store branch is located.
 • Customer_type: Type of customer (e.g., Member, Normal).
 • Gender: Gender of the customer.
